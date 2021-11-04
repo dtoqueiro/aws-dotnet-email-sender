@@ -13,8 +13,8 @@ namespace ses_sendmail_dotnet
       {
         var sendRequest = new SendEmailRequest
         {
-          FromEmailAddress = "no-repply@anfitriaoprime.com.br",
-          Destination = new Destination { ToAddresses = { "cereso.rodrigues@anfitriaoprime.com.br" } },
+          FromEmailAddress = "Teste de Sistema <no-repply@meu-dominio.com.br>",
+          Destination = new Destination { ToAddresses = { "daniel.toqueiro@meu-dominio.com.br" } },
 
           Content = new EmailContent
           {
