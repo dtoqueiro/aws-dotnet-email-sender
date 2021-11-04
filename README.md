@@ -18,4 +18,4 @@ Default region name [None]: us-west-2
 Default output format [None]: json
 ```
 
-- AWS SKD SimpleEmailV2 [documentação](
+- AWS SKD SimpleEmailV2 [documentação](https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/SimpleEmailV2/NSimpleEmailV2.html)
