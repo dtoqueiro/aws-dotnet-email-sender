@@ -2,7 +2,7 @@
 using Amazon.SimpleEmailV2;
 using Amazon.SimpleEmailV2.Model;
 
-namespace ses_sendmail_example
+namespace ses_sendmail_dotnet
 {
   class Program
   {
